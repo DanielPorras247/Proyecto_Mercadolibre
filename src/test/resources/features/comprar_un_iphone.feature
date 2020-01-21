@@ -2,6 +2,6 @@
 Feature: Prueba
   @RunnerTags
   Scenario: Prueba
-    Given que Yeison quiere realizar test
+    Given que Daniel quiere realizar test
     When el diligencia
     Then el deberia ver el resultado
